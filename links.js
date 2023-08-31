@@ -49,7 +49,7 @@ export const links = [
 "discord.png",
 	},
 	{
-		name: "Meow",
+		name: "Portfolio",
 		link:
 "https://casualnerding.online",
 		image:
